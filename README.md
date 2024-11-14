@@ -27,5 +27,6 @@ The first concept of this project will be targeted towards NFL and NBA fans. The
 Currently working on this massive project by myself and I would perfer to keep it that way. But, if you'd like to learn more on what's being built or have information to share, feel free to contact me using the links below. 
 
 [Linkedin](https://www.linkedin.com/in/kazishahria/)
+
 [Twitter](https://x.com/NerdyPick)
 
