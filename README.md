@@ -6,7 +6,6 @@ I am well aware of the randomness involved for building such a model that can pr
 
 The first concept of this project will be targeted towards NFL and NBA fans. The tech stack that will be (and are already being) used are listed below.
 
----
 # Tech Stack 🤖
 
 **Cloud System**
@@ -23,7 +22,6 @@ The first concept of this project will be targeted towards NFL and NBA fans. The
 **Web Framework**
 - Django
 
----
 # Contact me 🤙
 
 Currently working on this massive project by myself and I would perfer to keep it that way. But, if you'd like to learn more on what's being built or have information to share, feel free to contact me using the links below. 
